@@ -12,3 +12,22 @@ selector {
     justify-content: start;
     align-items: center;
 }
+
+#proyecto-1 {
+    background-image: url('google.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
+
+.bg-brand {
+    background-color: blueviolet;
+}
+
+.text-brand {
+    color: blueviolet;
+}
