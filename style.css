@@ -11,6 +11,12 @@ selector {
     display: flex;
     justify-content: start;
     align-items: center;
+
+    background-image: url("assets/fondo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
 }
 
 .proyecto {
